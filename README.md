@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** IT Student at **Ho Chi Minh City University of Technology (HUTECH)** | **GPA: 3.42/4.0**
-- 🎯 **Focus Areas:** Artificial Intelligence (AI), IoT & Embedded Systems, Java Web Development
+- 🎯 **Focus Areas:** Artificial Intelligence (AI), IoT & Embedded Systems, Web Development
 - 💼 **Experience:** Former Tech Member at **META SQUARE Co., Ltd** & **Hung Vuong University AI Institute**
 - 🏆 **Achievements:** Top-tier participant in **AIoT Innoworks 2025**, DB Global Dream Leader 2026, Published Author (*IECMS Paper*)
 - 📫 **How to reach me:** `nky57412@gmail.com` | `0369623216`
