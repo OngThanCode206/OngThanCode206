@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/OngThanCode206">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&width=500&lines=IT+Student+@+HUTECH;AI+%26+IoT+Enthusiast;Fullstack+Java+Developer;Leader+%26+Tech+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&width=500&lines=IT+Student+@+HUTECH;AI+%26+IoT+Enthusiast;Fullstack+Developer;Leader+%26+Tech+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
