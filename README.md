@@ -1,4 +1,5 @@
 # Hi there, I'm Vo Le Cao Ky 👋
+
 <p align="center">
   <a href="https://github.com/OngThanCode206">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&width=500&lines=IT+Student+@+HUTECH;AI+%26+IoT+Enthusiast;Fullstack+Java+Developer;Leader+%26+Tech+Researcher" alt="Typing SVG" />
@@ -8,11 +9,32 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** IT Student at **Ho Chi Minh City University of Technology (HUTECH)** | **GPA: 3.33/4.0**
+- 🎓 **Education:** IT Student at **Ho Chi Minh City University of Technology (HUTECH)** | **GPA: 3.42/4.0**
 - 🎯 **Focus Areas:** Artificial Intelligence (AI), IoT & Embedded Systems, Java Web Development
 - 💼 **Experience:** Former Tech Member at **META SQUARE Co., Ltd** & **Hung Vuong University AI Institute**
 - 🏆 **Achievements:** Top-tier participant in **AIoT Innoworks 2025**, DB Global Dream Leader 2026, Published Author (*IECMS Paper*)
 - 📫 **How to reach me:** `nky57412@gmail.com` | `0369623216`
+
+---
+
+### 💬 Connect With Me
+<p align="left">
+  <a href="https://www.facebook.com/share/1CpaDx3T1V/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kyc.catafrican/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cao-k%E1%BB%B3-v%C3%B5-l%C3%AA-b27515411/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/C14k11" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:nky57412@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -60,37 +82,11 @@
 ---
 
 ### 🏆 Honors & Certificates
-- 📜 **WISE-IoT WISE-PASS Core** (Level 1 & Level 2)
-- 🎓 **DB GLOBAL DREAM LEADER** (2026)
-- 🥇 **3rd Prize** - ASEAN Knowledge Quiz (2025)
-- 🏅 **Incentive Prize** - INNOWORKS 2025 Competition
+- 📜 **WISE-IoT WISE-PASS Core** (Level 1 & Level 2)[cite: 1]
+- 🎓 **DB GLOBAL DREAM LEADER** (2026)[cite: 1]
+- 🥇 **3rd Prize** - ASEAN Knowledge Quiz (2025)[cite: 1]
+- 🏅 **Incentive Prize** - INNOWORKS 2025 Competition[cite: 1]
 - 📜 **Scientific Publication:** *"IECMS - Intelligent Energy Consumption Monitoring System"* (2025)[cite: 1]
 
 ---
-
-### 💬 Connect With Me
-<p>
-  <a href="mailto:nky57412@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/OngThanCode206">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 ⭐ *"The only way to do great work is to love what you do." - Steve Jobs*
-<!--
-**OngThanCode206/OngThanCode206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
