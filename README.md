@@ -13,7 +13,7 @@
 - 🎯 **Focus Areas:** Artificial Intelligence (AI), IoT & Embedded Systems, Web Development
 - 💼 **Experience:** Former Tech Member at **META SQUARE Co., Ltd** & **Hung Vuong University AI Institute**
 - 🏆 **Achievements:** Top-tier participant in **AIoT Innoworks 2025**, DB Global Dream Leader 2026, Published Author (*IECMS Paper*)
-- 📫 **How to reach me:** `nky57412@gmail.com` | `0369623216`
+- 📫 **How to reach me:** [nky57412@gmail.com](mailto:nky57412@gmail.com) | `0369623216`
 
 ---
 
@@ -39,13 +39,14 @@
 ---
 
 ### 📊 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OngThanCode206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OngThanCode206&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OngThanCode206&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OngThanCode206&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OngThanCode206&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OngThanCode206&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,11 +83,11 @@
 ---
 
 ### 🏆 Honors & Certificates
-- 📜 **WISE-IoT WISE-PASS Core** (Level 1 & Level 2)[cite: 1]
-- 🎓 **DB GLOBAL DREAM LEADER** (2026)[cite: 1]
-- 🥇 **3rd Prize** - ASEAN Knowledge Quiz (2025)[cite: 1]
-- 🏅 **Incentive Prize** - INNOWORKS 2025 Competition[cite: 1]
-- 📜 **Scientific Publication:** *"IECMS - Intelligent Energy Consumption Monitoring System"* (2025)[cite: 1]
+- 📜 **WISE-IoT WISE-PASS Core** (Level 1 & Level 2)
+- 🎓 **DB GLOBAL DREAM LEADER** (2026)
+- 🥇 **3rd Prize** - ASEAN Knowledge Quiz (2025)
+- 🏅 **Incentive Prize** - INNOWORKS 2025 Competition
+- 📜 **Scientific Publication:** *"IECMS - Intelligent Energy Consumption Monitoring System"* (2025)
 
 ---
 ⭐ *"The only way to do great work is to love what you do." - Steve Jobs*
